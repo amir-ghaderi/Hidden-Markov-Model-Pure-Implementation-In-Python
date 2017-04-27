@@ -1,4 +1,4 @@
-# Hidden Markov Model Pure Implementation In Python: Forward Algorithm and Exhaustive Search
+# Hidden Markov Model Pure Implementation In Python: Forward Algorithm (Recursive) and Exhaustive Search
 
 
 ## Table of Contents
